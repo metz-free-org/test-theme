@@ -16,3 +16,9 @@ is it building?
 
 
 https://github.com/atom/flight-manual.atom.io/blob/master/README.md#testing-changes-locally
+
+
+* bullet 1
+  new line
+  
+* bullet 2
