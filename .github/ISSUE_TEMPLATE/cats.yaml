@@ -1,5 +1,5 @@
 name: Cat request
-  description:  Suggest a cat for this website
+  description: Suggest a cat for this website
   labels: [cat-request]
   body:
   - type: input
