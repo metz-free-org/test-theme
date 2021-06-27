@@ -1,7 +1,7 @@
 name: Cat request
-  description: Suggest a cat for this website
-  labels: [cat-request]
-  body:
+description: Suggest a cat for this website
+labels: [cat-request]
+body:
   - type: input
     id: cat-name
     attributes:
