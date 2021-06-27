@@ -11,7 +11,7 @@ body:
     validations:
       required: true
   - type: input
-    id: cat-name
+    id: cat-img
     attributes:
       label: Cat image
       description: "Where can we find a picture?"
