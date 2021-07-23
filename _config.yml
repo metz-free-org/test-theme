@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
 markdown: GFM
 exclude:
   - goaway
@@ -6,7 +6,7 @@ exclude:
 # jekyll-swiss - does not work, generic error
 # jekyll-theme-primer WORKS
 # jekyll-theme-architect WORKS
-# jekyll-theme-cayman
+# jekyll-theme-cayman WORKS
 # jekyll-theme-dinky
 # jekyll-theme-hacker
 # jekyll-theme-leap-day
