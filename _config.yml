@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 markdown: GFM
 exclude:
   - goaway
@@ -12,7 +12,7 @@ exclude:
 # jekyll-theme-leap-day WORKS
 # jekyll-theme-merlot WORKS
 # jekyll-theme-midnight WORKS
-# jekyll-theme-minimal
+# jekyll-theme-minimal WORKS for me (???)
 # jekyll-theme-modernist
 # jekyll-theme-slate
 # jekyll-theme-tactile
