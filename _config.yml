@@ -1,9 +1,9 @@
-theme: jekyll-swiss
+theme: jekyll-theme-primer
 markdown: GFM
 exclude:
   - goaway
   
-# jekyll-swiss
+# jekyll-swiss - does not work, generic error
 # jekyll-theme-primer
 # jekyll-theme-architect
 # jekyll-theme-cayman
