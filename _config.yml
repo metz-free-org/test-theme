@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 markdown: GFM
 exclude:
   - goaway
@@ -11,7 +11,7 @@ exclude:
 # jekyll-theme-hacker WORKS
 # jekyll-theme-leap-day WORKS
 # jekyll-theme-merlot WORKS
-# jekyll-theme-midnight
+# jekyll-theme-midnight WORKS
 # jekyll-theme-minimal
 # jekyll-theme-modernist
 # jekyll-theme-slate
