@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-hacker
 markdown: GFM
 exclude:
   - goaway
@@ -7,7 +7,7 @@ exclude:
 # jekyll-theme-primer WORKS
 # jekyll-theme-architect WORKS
 # jekyll-theme-cayman WORKS
-# jekyll-theme-dinky
+# jekyll-theme-dinky WORKS
 # jekyll-theme-hacker
 # jekyll-theme-leap-day
 # jekyll-theme-merlot WORKS
