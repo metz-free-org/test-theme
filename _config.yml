@@ -1,11 +1,11 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 markdown: GFM
 exclude:
   - goaway
   
 # jekyll-swiss - does not work, generic error
 # jekyll-theme-primer WORKS
-# jekyll-theme-architect
+# jekyll-theme-architect WORKS
 # jekyll-theme-cayman
 # jekyll-theme-dinky
 # jekyll-theme-hacker
